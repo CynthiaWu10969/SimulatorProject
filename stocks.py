@@ -1,2 +1,5 @@
-stocks = [{'symbol': " ", 'price': ""}]
-X5s
+stocks_chart = [{'symbol': "AAPL", 'year': "1990", 'price': 100}, {'symbol': "AAPL", 'year': "2000"}, {'symbol': "AAPL", 'year': "2008"}, {'symbol': "AAPL", 'year': "2019", 'price': 210.48}, {'symbol': "VZ", 'year': "1990"}, {'symbol': "VZ", 'year': "2000"}, {'symbol': "VZ", 'year': "2008"}, {'symbol': "VZ", 'year': "2019"}, {'symbol': "FB", 'year': "1990"}, {'symbol': "FB", 'year': "2000"}, {'symbol': "FB", 'year': "2008"}, {'symbol': "FB", 'year': "2019"}, {'symbol': "TSLA", 'year': "1990"}, {'symbol': "TSLA", 'year': "2000"}, {'symbol': "TSLA", 'year': "2008"}, {'symbol': "TSLA", 'year': "2019"}, {'symbol': "MSFT", 'year': "1990"}, {'symbol': "MSFT", 'year': "2000"}, {'symbol': "MSFT", 'year': "2008"}, {'symbol': "MSFT", 'year': "2019"}]
+  
+  
+# make sure to store different years as different dictionaries even for the same stock
+#one price for every dictionary
